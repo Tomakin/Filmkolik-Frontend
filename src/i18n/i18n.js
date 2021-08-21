@@ -1,0 +1,48 @@
+const i18n = {
+  en: {
+    title: "Filmkolik",
+    sidebarTitle: "Enjoy Film",
+    description: "Films and stars",
+    dashboard: "Dashboard",
+    components: "Components",
+    dropdown: "Dropdown",
+    submenu: "Submenu",
+    multiLevel: "Multi Level",
+    collapsed: "Collapsed",
+    rtl: "RTL",
+    image: "Background image",
+    new: "NEW",
+    withPrefix: "With Prefix",
+    withSuffix: "With Suffix",
+    viewSource: "View Source",
+    starDetails: "Star Details",
+    stars:"Stars",
+    filmDetails: "Film Details",
+    films: "films",
+    logout: "Logout"
+  },
+  tr: {
+    title: "Filmkolik",
+    sidebarTitle: "Film Keyfi",
+    description: "Filmler ve Oyuncular",
+    dashboard: "Dashboard",
+    components: "Components",
+    dropdown: "Dropdown",
+    submenu: "Submenu",
+    multiLevel: "Multi Level",
+    collapsed: "Collapsed",
+    rtl: "RTL",
+    image: "Background image",
+    new: "NEW",
+    withPrefix: "With Prefix",
+    withSuffix: "With Suffix",
+    viewSource: "View Source",
+    starDetails: "Oyuncu Detayları",
+    stars:"Oyuncular",
+    filmDetails: "Film Detayları",
+    films: "Filmler",
+    logout: "Çıkış Yap"
+  },
+};
+
+export { i18n };
